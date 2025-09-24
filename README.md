@@ -4,7 +4,7 @@ ItzMind (or Not_ItzMind, XD Salmon),
 Random guys on the website on the Internet (they didn't give me their name).
 # SIMPLY READ IT BEFORE USING THE PROGRAM
 
-This is the Term of Service or the Change Color Name bot on Discord.
+This is the Term of Service of the Change Color Name bot on Discord.
 By using this bot, you are agreeing to this text:
 
 # PURPOSES OF USING:
